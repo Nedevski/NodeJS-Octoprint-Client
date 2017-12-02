@@ -1,8 +1,8 @@
 {
-  "name": "octoprint",
-  "version": "0.1.0",
-  "description": "Allows the user to connect to the Octoprint API",
-  "main": "index.js",
+  "name": "octoprint-client",
+  "version": "0.9.0",
+  "description": "Allows the user to connect to the Octoprint API with request",
+  "main": "octoprint.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,7 @@
     "octoprint"
   ],
   "author": "Nikola Nedevski",
+  "repository": "git:Nedevski/NodeJS-Octoprint-Client",
   "license": "ISC",
   "dependencies": {
     "request": "^2.83.0"
