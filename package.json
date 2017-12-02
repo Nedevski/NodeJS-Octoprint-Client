@@ -1,0 +1,17 @@
+{
+  "name": "octoprint",
+  "version": "0.1.0",
+  "description": "Allows the user to connect to the Octoprint API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "octoprint"
+  ],
+  "author": "Nikola Nedevski",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
